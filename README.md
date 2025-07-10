@@ -1,0 +1,1 @@
+This repository contains beginner to intermediate level Java console-based projects that demonstrate core programming concepts like multithreading, collection framework usage, control structures, and user input handling.
